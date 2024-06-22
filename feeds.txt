@@ -1,0 +1,13 @@
+https://www.python.org/news/security/rss 
+https://feeds.feedburner.com/oreilly/radar/security 
+https://sysdig.com/blog/tag/security/feed/ 
+https://blogs.vmware.com/security/feed 
+https://www.securityweek.com/rss.xml 
+https://www.linuxsecurity.com/news/security/rss 
+https://feeds.feedburner.com/linuxsecurity 
+https://www.securityweek.com/rss.xml 
+https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml 
+https://www.cvedetails.com/vulnerability-feed.php 
+https://www.securityfocus.com/rss/vulnerabilities.xml 
+https://www.us-cert.gov/ncas/all.xml 
+https://www.darkreading.com/rss.xml 
